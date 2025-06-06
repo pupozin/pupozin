@@ -3,10 +3,10 @@
 ---
 
 ### 📊 Meus GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielpupo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pupozin&show_icons=true&theme=radical)
 
 ### 🔥 Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpupo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pupozin&layout=compact&theme=radical)
 
 ---
 
@@ -22,12 +22,11 @@
 ---
 
 ### 📱 Redes sociais:
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/gabriel-pupo-6996a327b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:pupogabriel92@gmail.com)
 
 ---
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gabrielpupo&theme=github-dark)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=pupozin&theme=github-dark)
 

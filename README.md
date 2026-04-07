@@ -4,16 +4,6 @@
 🚀 Apaixonado por criar soluções escaláveis e bem estruturadas  
 ☁️ Estudando Cloud (AWS) e arquitetura
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pupozin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupozin&layout=compact&theme=tokyonight&langs_count=6"/>
-</div>
-
----
 
 ## 🛠️ Tecnologias
 
@@ -38,11 +28,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
----
-
-## 🐍 Snake (atividade)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pupozin/pupozin/output/github-contribution-grid-snake.svg" />
-</p>

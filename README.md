@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel Pupo
 
 💻 Desenvolvedor Full Stack focado em **.NET + Angular**  
-🚀 Apaixonado por criar soluções escaláveis e bem estruturadas  
 ☁️ Estudando Cloud (AWS) e arquitetura
 
 
